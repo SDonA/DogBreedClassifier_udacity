@@ -14,12 +14,7 @@ Computer vision is one of the major technological advances today - sitting at th
 
 ## Project Motivation<a name="motivation"></a>
 
-Having experienced very close family members and friends suffer from cardiovascular related illnesses with occasional worrisome attacks, I was inspired to understand what is critical for patients who survived or died from heart attacks/failures. [Using In Hospital Mortality dataset from Kaggle](https://www.kaggle.com/saurabhshahane/in-hospital-mortality-prediction), I was particularly interested in 
-
-1. What are the top 3 prevalent comorbidities in HF patients and the risk level with age?
-2. What are the major inter-relationships between the vital signs related to HF?
-3. What are the major inter-relationships between the comorbidities related to HF?
-4. What are the top 5 predictive features of mortality in HF patients?
+This is one of the projects recommended for the Udacity Capstone Project for the award of a Nanodegree in Data Science. With a flair for coputer vission and deeplearning, I Was particularly drawn to take on this project as a dog lover, with an end game in mind of developing this further into a mobile and web app.
 
 ## Installation Instruction<a name="files"></a>
 
