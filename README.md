@@ -29,6 +29,8 @@ Having experienced very close family members and friends suffer from cardiovascu
 
 ## Installation Instruction<a name="files"></a>
 
+### Dependencies
+
 The files neccessary to run the code are are below
 1. HeartFailureInvestigation.ipynb - Main jupyter notebook file
 2. data.csv - In Hospital Mortality Dataset from kaagle
