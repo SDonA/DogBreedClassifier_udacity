@@ -8,7 +8,7 @@
 5. [Licensing, Author, Acknowledgement, References](#licensing)
 
 
-## Project Overview="motivation"></a>
+## Project Overview<a name="motivation"></a>
 
 Having experienced very close family members and friends suffer from cardiovascular related illnesses with occasional worrisome attacks, I was inspired to understand what is critical for patients who survived or died from heart attacks/failures. [Using In Hospital Mortality dataset from Kaggle](https://www.kaggle.com/saurabhshahane/in-hospital-mortality-prediction), I was particularly interested in 
 
