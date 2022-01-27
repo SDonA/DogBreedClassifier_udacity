@@ -14,7 +14,7 @@ Computer vision is one of the major technological advances today - sitting at th
 
 ## Project Motivation<a name="motivation"></a>
 
-This is one of the projects recommended for the Udacity Capstone Project for the award of a Nanodegree in Data Science. With a flair for coputer vission and deeplearning, I Was particularly drawn to take on this project as a dog lover, with an end game in mind of developing this further into a mobile and web app.
+This is one of the projects recommended for the Udacity Capstone Project for the award of a Nanodegree in Data Science. With a flair for computer vision and deeplearning, I Was particularly drawn to take on this project as a dog lover, with an end game in mind of developing this further into a mobile and web app.
 
 ## Installation Instruction<a name="files"></a>
 
