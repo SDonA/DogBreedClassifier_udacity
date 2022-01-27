@@ -37,9 +37,12 @@ Info on Face recognition is located [here](https://face-recognition.readthedocs.
 ## File Descriptions <a name="files"></a>
 
 The files neccessary to run the code are are below
-1. HeartFailureInvestigation.ipynb - Main jupyter notebook file
-2. data.csv - In Hospital Mortality Dataset from kaagle
+1. dog_app_pytorch_SDA.ipnyb(file) - Main jupyter notebook file
+2. haarcacades (folder) - contains OpenCV face recognition models
+3. In Hospital Mortality Dataset from kaagle
 3. visuals.py - Utility python code with functions used in main notebook 
+
+<img src="./images/Brittany_02625.jpg>
 
 The steps taking in analyzing the data is thoroughly stated in markdown cells in the main notebook.
 
