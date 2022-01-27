@@ -43,6 +43,7 @@ The files neccessary to run the code are are below
 3. visuals.py - Utility python code with functions used in main notebook 
 
 <img src="./images/Brittany_02625.jpg>
+![plot](./images/Brittany_02625.jpg)
 
 The steps taking in analyzing the data is thoroughly stated in markdown cells in the main notebook.
 
