@@ -31,7 +31,7 @@ This is one of the projects recommended for the Udacity Capstone Project for the
 - torchvision==0.9.0
 - tqdm==4.60.0
 
-
+Face_recognition requires installation of dlib. Refer to this [link](https://medium.com/analytics-vidhya/how-to-install-dlib-library-for-python-in-windows-10-57348ba1117f) on how to install dlib and its dependencies
 
 ## File Descriptions <a name="files"></a>
 
