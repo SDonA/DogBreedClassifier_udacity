@@ -20,10 +20,17 @@ This is one of the projects recommended for the Udacity Capstone Project for the
 
 ### Dependencies
 
-The files neccessary to run the code are are below
-1. HeartFailureInvestigation.ipynb - Main jupyter notebook file
-2. data.csv - In Hospital Mortality Dataset from kaagle
-3. visuals.py - Utility python code with functions used in main notebook 
+face_recognition==1.3.0
+ipython==8.0.1
+ipywidgets==7.6.3
+matplotlib==3.3.4
+numpy==1.19.2
+opencv_python==4.5.5.62
+Pillow==9.0.0
+torch==1.8.0
+torchvision==0.9.0
+tqdm==4.60.0
+
 
 
 ## File Descriptions <a name="files"></a>
