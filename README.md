@@ -1,10 +1,10 @@
 ### Table of Contents
 
-1. [Project Overview]
-3. [Project Motivation]
-2. [Installation Instruction]
+1. [Project Overview](#Overview)
+3. [Project Motivation](#motivation
+2. [Installation Instruction](#installation)
 	[Dependencies]
-3. [File Descriptions]
-4. [Sample Prediction Results]
-5. [Licensing, Author, Acknowledgement, References]
+3. [File Descriptions](#files)
+4. [Sample Prediction Results](#results)
+5. [Licensing, Author, Acknowledgement, References](#licensing)
 
