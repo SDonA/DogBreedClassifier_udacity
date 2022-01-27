@@ -39,17 +39,22 @@ Info on Face recognition is located [here](https://face-recognition.readthedocs.
 The files neccessary to run the code are are below
 1. dog_app_pytorch_SDA.ipnyb(file) - Main jupyter notebook file
 2. haarcacades (folder) - contains OpenCV face recognition models
-3. In Hospital Mortality Dataset from kaagle
-3. visuals.py - Utility python code with functions used in main notebook 
+3. OptionalFaceDetector (folder) - contains OpenCV DNN model files
+4. saved_models (folder) - contains optimal models saved after the various training steps in the notebooks
+5. ./data/dog_images (folder)  - contains the training, validation and test dog image datasets
+6. ./data/ifw (folder)  - contains human images
+**NOTE**: Due to space limitations the data folder is hosted on my google drive [HERE](https://drive.google.com/drive/folders/1aHZcWOAUQGbjoQEgwh34FtjMQ3q89k65?usp=sharing)
 
-<img src="./images/Brittany_02625.jpg>
-![plot](./images/Brittany_02625.jpg)
-
-The steps taking in analyzing the data is thoroughly stated in markdown cells in the main notebook.
+**Steps to run the program:**
 
 ## Sample Prediction Results<a name="results"></a>
 
 The main findings of the code can be found at the post available [here](https://medium.com/@succatt/key-parameters-impacting-mortality-in-heart-failure-hf-patients-a-data-driven-quest-2d9c273c46fc).
+
+
+
+
+![plot](./images/Brittany_02625.jpg)
 
 ## Licensing, Author, Acknowledgement, References]<a name="licensing"></a>
 
