@@ -32,6 +32,7 @@ This is one of the projects recommended for the Udacity Capstone Project for the
 - tqdm==4.60.0
 
 Face_recognition requires installation of dlib. Refer to this [link](https://medium.com/analytics-vidhya/how-to-install-dlib-library-for-python-in-windows-10-57348ba1117f) on how to install dlib and its dependencies
+Info on Face recognition is located [here](https://face-recognition.readthedocs.io/en/latest/readme.html)
 
 ## File Descriptions <a name="files"></a>
 
