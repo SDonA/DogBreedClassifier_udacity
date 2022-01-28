@@ -64,8 +64,12 @@ Sample predictions are shown below.
 
 ## Licensing, Author, Acknowledgement, References]<a name="licensing"></a>
 
-Credits goes to Saurabh Shahane for the dataset provided on kaggle.
-You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/saurabhshahane/in-hospital-mortality-prediction).  Feel free to use the code here as you would like! 
+- Licencing: See license file
+- Author - Success Attoni
+- Acknowledgement: Credit to udacity for providing the boiler plate code and directions to complete this project.
+- References.
+	- Udacity Course Materias.
+
 
 
 
