@@ -65,10 +65,16 @@ Sample predictions are shown below.
 ## Licensing, Author, Acknowledgement, References]<a name="licensing"></a>
 
 - Licencing: See license file
-- Author - Success Attoni
+- Author: Success Attoni
 - Acknowledgement: Credit to udacity for providing the boiler plate code and directions to complete this project.
 - References.
-	- Udacity Course Materias.
+	- Udacity Course Materials
+	- https://pytorch.org/hub/pytorch_vision_vgg/
+	- Face Detection – OpenCV, Dlib and Deep Learning ( C++ / Python ) = https://datahacker.rs/017-face-detection-algorithms-comparison/
+	- dlib : https://learnopencv.com/face-detection-opencv-dlib-and-deep-learning-c-python/
+	- Stackover flow posts
+	- Medium Posts
+
 
 
 
