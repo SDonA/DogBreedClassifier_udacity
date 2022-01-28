@@ -43,6 +43,7 @@ The files neccessary to run the code are are below
 4. saved_models (folder) - contains optimal models saved after the various training steps in the notebooks
 5. ./data/dog_images (folder)  - contains the training, validation and test dog image datasets
 6. ./data/ifw (folder)  - contains human images.
+7. blogpost.pdf - blog post document.
 
 **NOTE**: Due to space limitations the data folder is hosted on my google drive [HERE](https://drive.google.com/drive/folders/1aHZcWOAUQGbjoQEgwh34FtjMQ3q89k65?usp=sharing)
 
@@ -75,34 +76,3 @@ Sample predictions are shown below.
 	- Stackover flow posts: https://stackoverflow.com/
 	- Medium Posts: https://towardsdatascience.com/
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## Installation <a name="installation"></a>
-
-There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python.  The code should run with no issues using Python versions 3.*. on Anaconda (jupyter notebook)
-
-Required Libraries are:
-
-pandas
-numpy
-seaborn
-scipy
-sklearn
-time
-matplotlib
