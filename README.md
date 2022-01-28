@@ -16,7 +16,7 @@ Computer vision is one of the major technological advances today - sitting at th
 
 This is one of the projects recommended for the Udacity Capstone Project for the award of a Nanodegree in Data Science. With a flair for computer vision and deeplearning, I Was particularly drawn to take on this project as a dog lover, with an end game in mind of developing this further into a mobile and web app.
 
-## Installation Instruction<a name="files"></a>
+## Installation Instruction<a name="#installation"></a>
 
 ### Dependencies
 
@@ -42,19 +42,25 @@ The files neccessary to run the code are are below
 3. OptionalFaceDetector (folder) - contains OpenCV DNN model files
 4. saved_models (folder) - contains optimal models saved after the various training steps in the notebooks
 5. ./data/dog_images (folder)  - contains the training, validation and test dog image datasets
-6. ./data/ifw (folder)  - contains human images
+6. ./data/ifw (folder)  - contains human images.
+
 **NOTE**: Due to space limitations the data folder is hosted on my google drive [HERE](https://drive.google.com/drive/folders/1aHZcWOAUQGbjoQEgwh34FtjMQ3q89k65?usp=sharing)
 
-**Steps to run the program:**
+**Steps to run the notebook:**
+1. Create virtual environment for the notebook.
+2. Install all dependencies.
+3. Fork repository to disk drive
+4. Get data.zip from my google [drive](https://drive.google.com/drive/folders/1aHZcWOAUQGbjoQEgwh34FtjMQ3q89k65?usp=sharing), and unzip it to the root of the directory were the repository files are placed.
+5. Start jupyter notebook
+6. Launch dog_app_pytorch_SDA.ipnyb and run all code cells. The last code cell will display a file select dialog that enables you select images for the algorithm to make predictions on.
 
 ## Sample Prediction Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here](https://medium.com/@succatt/key-parameters-impacting-mortality-in-heart-failure-hf-patients-a-data-driven-quest-2d9c273c46fc).
+Sample predictions are shown below.
+
+![plot](./images/sample_pred.jpg)
 
 
-
-
-![plot](./images/Brittany_02625.jpg)
 
 ## Licensing, Author, Acknowledgement, References]<a name="licensing"></a>
 
