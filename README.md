@@ -72,8 +72,8 @@ Sample predictions are shown below.
 	- https://pytorch.org/hub/pytorch_vision_vgg/
 	- Face Detection – OpenCV, Dlib and Deep Learning ( C++ / Python ) = https://datahacker.rs/017-face-detection-algorithms-comparison/
 	- dlib : https://learnopencv.com/face-detection-opencv-dlib-and-deep-learning-c-python/
-	- Stackover flow posts
-	- Medium Posts
+	- Stackover flow posts: https://stackoverflow.com/
+	- Medium Posts: https://towardsdatascience.com/
 
 
 
