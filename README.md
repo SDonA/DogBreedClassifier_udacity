@@ -37,14 +37,16 @@ Info on Face recognition is located [here](https://face-recognition.readthedocs.
 ## File Descriptions <a name="files"></a>
 
 The files neccessary to run the code are are below
-1. dog_app_pytorch_SDA.ipnyb(file) - Main jupyter notebook file
-2. haarcacades (folder) - contains OpenCV face recognition models
-3. OptionalFaceDetector (folder) - contains OpenCV DNN model files
-4. saved_models (folder) - contains optimal models saved after the various training steps in the notebooks
-5. ./data/dog_images (folder)  - contains the training, validation and test dog image datasets
-6. ./data/ifw (folder)  - contains human images.
-7. blogpost.pdf - blog post document.
-8. ./images(folder) - Contains images displayed in notebook and used to test the routine.
+1. 	dog_app_pytorch_SDA.ipnyb(file) - Main jupyter notebook file
+2. 	haarcacades (folder) - contains OpenCV face recognition models
+3. 	OptionalFaceDetector (folder) - contains OpenCV DNN model files
+4. 	saved_models (folder) - contains optimal models saved after the various training steps in the notebooks
+5. 	./data/dog_images (folder)  - contains the training, validation and test dog image datasets
+6. 	./data/ifw (folder)  - contains human images.
+7. 	blogpost.pdf - blog post document.
+8. 	./images(folder) - Contains images displayed in notebook and used to test the routine.
+9. 	dog_app_pytorch_SDA.pdf - Pdf of completely run notebook
+10.	BlogPost.pdf - Blog Post Report Writeup.
 
 **NOTE**: Due to space limitations the data folder is hosted on my google drive [HERE](https://drive.google.com/drive/folders/1aHZcWOAUQGbjoQEgwh34FtjMQ3q89k65?usp=sharing)
 
