@@ -44,6 +44,7 @@ The files neccessary to run the code are are below
 5. ./data/dog_images (folder)  - contains the training, validation and test dog image datasets
 6. ./data/ifw (folder)  - contains human images.
 7. blogpost.pdf - blog post document.
+8. ./images(folder) - Contains images displayed in notebook and used to test the routine.
 
 **NOTE**: Due to space limitations the data folder is hosted on my google drive [HERE](https://drive.google.com/drive/folders/1aHZcWOAUQGbjoQEgwh34FtjMQ3q89k65?usp=sharing)
 
